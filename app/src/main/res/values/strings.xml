@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MiPrimerNotificacion</string>
+    <string name="lanzarNotificacion">Lanzar Notificacion</string>
+</resources>
